@@ -9,5 +9,8 @@ public class Pushing {
 		System.out.println("push the code ");
 		System.out.println("push the codes ");
 	}
+	
+	int age = 25;
+	String name = "Milad";
 
 }
