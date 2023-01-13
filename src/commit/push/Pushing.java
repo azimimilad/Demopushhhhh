@@ -7,6 +7,7 @@ public class Pushing {
 		System.out.println("push the class");
 		
 		System.out.println("push the code ");
+		System.out.println("push the codes ");
 	}
 
 }
